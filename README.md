@@ -23,3 +23,7 @@ Use the following format when reporting bugs/issues or submitting a ticket for a
    issue, proviiding as much information as possible.
    
 ANY ISSUES SUBMITTED THAT DO NOT RELATE TO Qv4 WILL BE CLOSED WITHOUT COMMENT.
+
+# PROJECT Q WIKI
+
+For more information about Project Q v4, see the wiki at https://nwn.wiki/display/NWN1/Project+Q
